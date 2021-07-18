@@ -1,0 +1,17 @@
+{
+	"name": "Weightless",
+	"description": "Weightless allows you to collect as many items as you want while maintaining a weight of 0.",
+	"version": "1.1.3",
+    "author": "Robot Boy",
+    "waywardVersion": "2.10.7-beta",
+	"unloadable": true,
+	"file": "out/weightless.js",
+	"multiplayer": "clientside",
+	"languages": [
+		"lang/english"
+	],
+	"tags": [
+		"Cheat"
+    ],
+	"publishedFileId": "783715246"
+}
